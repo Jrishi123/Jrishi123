@@ -1,4 +1,4 @@
-\# 👋 Hi there, I'm Jothick Rishi
+👋 Hi there, I'm Jothick Rishi
 
 ### ☁️ DevOps Engineer | Cloud & Infrastructure | Automation
 
