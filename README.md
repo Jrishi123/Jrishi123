@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jothick Rishi
+\# 👋 Hi there, I'm Jothick Rishi
 
 ### ☁️ DevOps Engineer | Cloud & Infrastructure | Automation
 
@@ -41,4 +41,70 @@ I'm a DevOps Engineer with 5 years of experience in cloud infrastructure, automa
 ### Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### Programming & Operating Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Supply Shock Stress-Tester – India
+Docker-based PostgreSQL environment with Python automation and SQL operations.
+
+[View Repository →](https://github.com/Jrishi123/Supply-Shock-Stress-Tester-India-s-Critical-Import-Vulnerability)
+
+### 🔹 AKS 3-Tier Application
+A secure Kubernetes deployment architecture using React, Node.js, PostgreSQL, Helm, and Azure Kubernetes Service.
+
+[View Repository →](https://github.com/Jrishi123/AKS-3Tier-app)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jrishi123&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrishi123&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jrishi123&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- ☁️ Cloud Architecture & Infrastructure Engineering
+- ⚙️ Advanced Terraform & Infrastructure as Code
+- ☸️ Kubernetes, AKS & EKS
+- 🔄 GitOps and CI/CD Automation
+- 💰 Cloud Cost Optimization & FinOps
+- 🤖 AI-powered DevOps Automation
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with engineers, exploring innovative technologies, and collaborating on exciting projects.
+
+📧 **Email:** jothickrishi2717@gmail.com
+
+🔗 **LinkedIn:** [Jothick Rishi](https://www.linkedin.com/in/jothick-rishi-b05665176/)
+
+💻 **GitHub:** [@Jrishi123](https://github.com/Jrishi123)
+
+---
+
+<p align="center">
+  <i>"Automate everything you can. Build systems that scale. Never stop learning."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
