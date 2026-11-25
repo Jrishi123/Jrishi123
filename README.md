@@ -1,51 +1,44 @@
-# Hi there 👋, I'm Jothick Rishi
+# 👋 Hi there, I'm Jothick Rishi
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jothick-rishi-b05665176/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Jrishi123)
+### ☁️ DevOps Engineer | Cloud & Infrastructure | Automation
+
+Building scalable cloud infrastructure, automating deployments, and engineering reliable systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jothick-rishi-b05665176/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Jrishi123)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jothickrishi2717@gmail.com)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as a **Cloud and Infrastructure Engineer** at Movate Technologies  
-- 🌱 Passionate about advancing my skills in **DevOps, Cloud Architecture, and Kubernetes**  
-- 👯 Open to collaboration on **open source projects** and innovative cloud solutions  
-- 💬 Ask me about **Terraform, AWS DevOps, Docker, CI/CD Pipelines, Azure DevOps**  
-- 🚀 Exploring cloud-native architecture and container orchestration with **Kubernetes**  
-- 📫 Reach out via email: [jothickrishi2717@gmail.com](mailto:jothickrishi2717@gmail.com)  
+I'm a DevOps Engineer with 5 years of experience in cloud infrastructure, automation, and deployment engineering.
+
+- 🔭 Working on Cloud, DevOps & Infrastructure Engineering
+- ☁️ Experienced with AWS and Microsoft Azure
+- ⚙️ Infrastructure automation using Terraform
+- 🐳 Containerization and orchestration using Docker & Kubernetes
+- 🔄 Building CI/CD pipelines using Azure DevOps, Jenkins & GitHub Actions
+- 🔐 Interested in cloud security, reliability, and infrastructure optimization
+- 🌱 Exploring CloudOps, FinOps, GitOps & AI-powered automation
+- 🤝 Open to collaborating on DevOps and Cloud-native projects
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
+### DevOps & CI/CD
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Jothick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jrishi123&show_icons=true&theme=radical&hide_border=true)
-
----
-
-## 📫 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jothick-rishi-b05665176/)  
-- 🔗 [GitHub](https://github.com/Jrishi123)  
-- 📧 [jothickrishi2717@gmail.com](mailto:jothickrishi2717@gmail.com)
-
----
-
-## ⚡ Fun Fact
-
-When I’m not automating infrastructure or building pipelines, I enjoy learning about cloud-native innovations and exploring new DevOps tools that make life easier!
-
----
-
-*Feel free to reach out — I’m always open to new opportunities and collaborations!*
+### Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689
